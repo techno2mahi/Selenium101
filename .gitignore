@@ -1,0 +1,6 @@
+packages/
+TestProject1/obj/
+TestProject1/bin/
+.vs/
+ConsoleApp2Sele/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+ConsoleApp2Sele/obj/
